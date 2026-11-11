@@ -85,7 +85,9 @@
       "name_en": "Ponytails"
     },
     {
-      "slug": "Clip In Hair"
+      "slug": "Clip In Hair",
+      "num": "07",
+      "name_en": "Clip In Hair"
     }
   ]
 }
