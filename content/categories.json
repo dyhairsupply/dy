@@ -85,8 +85,16 @@
       "name_en": "Ponytails"
     },
     {
-      "slug": "Clip In Hair",
+      "intro_zh": "我们的卡子发可以快速进行自我佩戴与稳固贴合，采用与发帘同等级的真人发，不同方位的头发进行添加",
+      "name_zh": "卡子发",
       "num": "07",
+      "slug": "Clip In Hair",
+      "description_en": "Clip-in hair pieces can be easily self-applied and secured snugly. Made of premium human hair of the same grade as hair wefts, they allow you to add hair volume at different positions.",
+      "subtitle_en": "Clip in Human Hair Extensions",
+      "description_zh": "片式卡子发可以快速进行自我佩戴与稳固贴合，采用与发帘同等级的真人发，不同方位的头发进行添加",
+      "subtitle_zh": "片卡式卡子发",
+      "image": "/images/uploads/e7-6-.jpg",
+      "intro_en": "Clip-in hair pieces can be easily self-applied and secured snugly. Made of premium human hair of the same grade as hair wefts, they allow you to add hair volume at different positions.",
       "name_en": "Clip In Hair"
     }
   ]
