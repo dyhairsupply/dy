@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "intro_zh": "头套系列包含前额蕾丝、全蕾丝、360 与免胶结构。全部在自有车间手工钩织，采用毛鳞片顺向真人发，出货前逐顶检查发际线、密度与掉发量。",
-      "name_zh": "真人发头套",
+      "intro_zh": "发帘是德宇的核心产品。发丝经分拣、双抽、顺鳞后在自有车间缝制，提供机制、手工与超薄无痕三类，纹理与色号可整套配套。",
+      "name_zh": "发帘",
       "num": "01",
-      "slug": "wigs",
-      "description_en": "Ready-to-wear wigs built on lace front, full lace and glueless bases, in every texture and length your market asks for.",
-      "order": 1,
-      "subtitle_en": "Lace front, full lace & glueless wigs",
-      "description_zh": "涵盖前额蕾丝、全蕾丝与免胶底，纹理与长度可按目标市场灵活配置。",
-      "subtitle_zh": "前额蕾丝、全蕾丝与免胶头套",
-      "image": "/images/uploads/htb18wfwrxnak1rjszfbq6aw7vxaq.jpg",
-      "intro_en": "Our wig line covers lace front, full lace, 360 and glueless constructions. Every unit is hand-ventilated in our own workshop with cuticle-aligned human hair, then checked for hairline, density and shedding before packing.",
-      "name_en": "Human Hair Wigs"
+      "slug": "wefts",
+      "description_en": "Double-drawn bundles with minimal shedding - the foundation of our wholesale business.",
+      "order": 5,
+      "subtitle_en": "Machine, hand-tied & genius wefts",
+      "description_zh": "双抽工艺发束，掉发少，是批发业务的基础产品。",
+      "subtitle_zh": "机制、手工与无痕发帘",
+      "image": "/images/uploads/h08ed565f89f24d429a293075fa905b56f.jpg_960x960.webp.jpg",
+      "intro_en": "Wefts are our core product. Hair is sorted, double-drawn and sewn in our own workshop, with cuticles kept in one direction. Machine wefts, hand-tied wefts and ultra-thin genius wefts are available in matching textures and colours.",
+      "name_en": "Hair Wefts"
     },
     {
       "intro_zh": "发块与发帘取自同一批发丝，整套安装的纹理、色泽与光泽保持一致。可选透明蕾丝、HD 蕾丝与丝网底，支持自由分缝、中分与三七分。",
@@ -57,18 +57,18 @@
       "name_en": "Hair Extensions"
     },
     {
-      "intro_zh": "发帘是德宇的核心产品。发丝经分拣、双抽、顺鳞后在自有车间缝制，提供机制、手工与超薄无痕三类，纹理与色号可整套配套。",
-      "name_zh": "发帘",
+      "intro_zh": "头套系列包含前额蕾丝、全蕾丝、360 与免胶结构。全部在自有车间手工钩织，采用毛鳞片顺向真人发，出货前逐顶检查发际线、密度与掉发量。",
+      "name_zh": "真人发头套",
       "num": "05",
-      "slug": "wefts",
-      "description_en": "Double-drawn bundles with minimal shedding - the foundation of our wholesale business.",
-      "order": 5,
-      "subtitle_en": "Machine, hand-tied & genius wefts",
-      "description_zh": "双抽工艺发束，掉发少，是批发业务的基础产品。",
-      "subtitle_zh": "机制、手工与无痕发帘",
-      "image": "/images/uploads/h08ed565f89f24d429a293075fa905b56f.jpg_960x960.webp.jpg",
-      "intro_en": "Wefts are our core product. Hair is sorted, double-drawn and sewn in our own workshop, with cuticles kept in one direction. Machine wefts, hand-tied wefts and ultra-thin genius wefts are available in matching textures and colours.",
-      "name_en": "Hair Wefts"
+      "slug": "wigs",
+      "description_en": "Ready-to-wear wigs built on lace front, full lace and glueless bases, in every texture and length your market asks for.",
+      "order": 1,
+      "subtitle_en": "Lace front, full lace & glueless wigs",
+      "description_zh": "涵盖前额蕾丝、全蕾丝与免胶底，纹理与长度可按目标市场灵活配置。",
+      "subtitle_zh": "前额蕾丝、全蕾丝与免胶头套",
+      "image": "/images/uploads/htb18wfwrxnak1rjszfbq6aw7vxaq.jpg",
+      "intro_en": "Our wig line covers lace front, full lace, 360 and glueless constructions. Every unit is hand-ventilated in our own workshop with cuticle-aligned human hair, then checked for hairline, density and shedding before packing.",
+      "name_en": "Human Hair Wigs"
     },
     {
       "intro_zh": "马尾系列强调快速佩戴与稳固贴合，采用与发帘同等级的真人发，配缠绕式、抽绳式或抓夹式隐形固定结构。",
