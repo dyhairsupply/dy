@@ -63,6 +63,7 @@
       "texture_en": "Kinky Curly",
       "weight_en": "150% 180% 200% 250% 300% density are optional",
       "grade_en": "12A-Cutical Aligned",
+      "construction_en": "4X4 5X5 13X4 13X6 are Optional",
       "images": [
         "/images/uploads/u545bd7638c044ab2875f5e03d308d6c40.jpg",
         "/images/uploads/u644a5518031646bd9b6f125f1dedbdf69.jpg",
@@ -83,6 +84,7 @@
       "weight_en": "150% 180% 200% 250% 300% are all Optional",
       "grade_en": "12A-Cutical Aligned",
       "texture_zh": "10-40 inch",
+      "construction_en": "4X4 5X5 13X4 13X6 are Optional",
       "images": [
         "/images/uploads/u6741d77f78ee443799bf1234e0bf45f1g.jpg",
         "/images/uploads/u0d83b9c69a5c496189fb753259ac591af.jpg",
@@ -94,16 +96,24 @@
       "category": "Lace Wigs"
     },
     {
-      "id": "DY-LW-003",
+      "colour_zh": "",
+      "name_zh": "",
+      "summary_en": "T1B/30 Ombre Light Brown Human Hair Loose Body Wave Frontal Lace Wigs",
+      "length": "10-36 inch are available",
+      "material": "burmese",
       "description_en": "Ombre Brown Human Hair Loose Body Wave Frontal Lace Wigs \n4X4 5X5 13X4 13X6 Lace Wigs are all Optional with this Color and Textre",
+      "weight_en": "150% 180% 200% 250% 300% are all Optional",
+      "grade_en": "12A-Cutical Aligned",
+      "texture_zh": "Loose Wave",
+      "construction_en": "4X4 5X5 13X4 13X6 are Optional",
       "images": [
         "/images/uploads/h957885c323ea4a59a2a276ea3225fd55t.jpg",
         "/images/uploads/h6a7120c8151c4da69afeebc4800528b0o.jpg",
         "/images/uploads/ha092cbacfeb141ac846fbaed5f4d704do.jpg"
       ],
-      "summary_en": "T1B/30 Ombre Light Brown Human Hair Loose Body Wave Frontal Lace Wigs",
-      "material": "burmese",
-      "name_zh": "",
+      "id": "DY-LW-003",
+      "construction_zh": "",
+      "colour_en": "Ombre Light Brown",
       "name_en": "Ombre Light Brown Human Hair Loose Wave Lace Wigs",
       "category": "Lace Wigs"
     }
