@@ -376,9 +376,28 @@
         "/images/uploads/hb631dc946c0a4f07a20d0cd60916eab5q.jpg"
       ],
       "id": "DY-MC-001",
-      "colour_en": "Customized",
+      "colour_en": "#blue #purle #pink #grey #silver #red",
       "name_en": "Colorful Micro Loop Ring Hair Extensions Straight 100g ",
       "category": "Micro Ring Hair Extensions"
-    }
+    },
+    {
+      "summary_en": "Colorful Micro Loop Ring Hair Extensions Straight 100g \nAll Colors can be Customized  \n",
+      "length": "10-36 inch are available",
+      "material": "yunnan",
+      "texture_en": "Straight",
+      "weight_en": "100s/100g",
+      "texture_zh": "",
+      "construction_en": "All Colors can be Customized",
+      "images": [
+        "/images/uploads/hdb7aba7920ba4a18849c6dc516fcd7dfb.jpg",
+        "/images/uploads/h574c65777d43446380c7aebbef40c2f9q.jpg",
+        "/images/uploads/h73edaf3944864e9390170e966770bd49x.jpg"
+      ],
+      "id": "DY-MC-002",
+      "colour_en": "#27 #613 #60 #30 #33 ",
+      "name_en": "Micro Loop Ring Hair Extensions Straight 100g",
+      "category": "Micro Ring Hair Extensions"
+    },
+    {}
   ]
 }
