@@ -16,7 +16,7 @@
     },
     {
       "intro_zh": "发块前头与发帘取自同一批发丝，整套安装的纹理、色泽与光泽保持一致。可选透明蕾丝、HD 蕾丝与丝网底，支持自由分缝、中分与三七分。",
-      "name_zh": "蕾丝发块/前头",
+      "name_zh": "蕾丝发块",
       "num": "02",
       "slug": "Closures & Frontals",
       "description_en": "Small-lace pieces with a natural parting, made to match our wefts and bundles exactly.",
@@ -86,14 +86,14 @@
     },
     {
       "intro_zh": "面向沙龙的专业接发系统，长度与色号稳定、批次一致。",
-      "name_zh": "钢丝发接发",
+      "name_zh": "钢丝发",
       "num": "07",
       "slug": "Nano Ring Hair Extensions",
       "description_en": "our extension range is built for salon professionals who need predictable grams per piece, reliable adhesive and repeatable shades across reorders.",
       "order": 7,
       "subtitle_en": "Nano Ring Hair Extensions",
       "description_zh": "面向沙龙的专业接发系统，长度与色号稳定、批次一致。",
-      "subtitle_zh": "钢丝发接发",
+      "subtitle_zh": "钢丝发",
       "image": "/images/uploads/.jpg_q90.jpg_.webp-24-.jpg",
       "intro_en": "our extension range is built for salon professionals who need predictable grams per piece, reliable adhesive and repeatable shades across reorders.",
       "name_en": "Nano Ring Hair Extensions"
@@ -114,7 +114,7 @@
     },
     {
       "intro_zh": "I Tip/U Tip/Flat Tip Hair Extensions",
-      "name_zh": "棒棒发/指甲发",
+      "name_zh": "棒棒指甲发",
       "num": "09",
       "slug": "I Tip/U Tip Hair Extensions",
       "description_en": "I Tip/U Tip/Flat Tip Hair Extensions",
@@ -142,7 +142,7 @@
       "intro_zh": "Feather Crochet Hair Extensions",
       "name_zh": "羽毛接发",
       "num": "11",
-      "slug": "Feather Crochet Hair Extensions",
+      "slug": "Feather Crochet Hair",
       "description_en": "Feather Crochet Hair Extensions",
       "order": 11,
       "subtitle_en": "Feather Crochet Hair Extensions",
@@ -150,7 +150,7 @@
       "subtitle_zh": "Feather Crochet Hair Extensions",
       "image": "/images/uploads/2455e92108af8405eb09d24986f76579.jpg",
       "intro_en": "Feather Crochet Hair Extensions",
-      "name_en": "Feather Crochet Hair Extensions"
+      "name_en": "Feather Crochet Hair"
     },
     {
       "intro_zh": "单片克重稳定、胶片可靠、色号可复购，适合专业沙龙长期使用。",
