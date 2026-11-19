@@ -535,6 +535,43 @@
       "colour_en": "#613 Blonde",
       "name_en": "HD #613 Blonde Thin Lace Closure",
       "category": "Closures & Frontals"
+    },
+    {
+      "summary_en": "4X4HD 2X6HD 5X5HD 13X4HD 13X6HD 360HD",
+      "length": "10-22 inch are available ",
+      "material": "burmese",
+      "texture_en": "Straight",
+      "weight_en": "150% density  ",
+      "grade_en": "12A-Cutical Aligned",
+      "construction_en": "4X4HD 2X6HD 5X5HD 13X4HD 13X6HD 360HD",
+      "images": [
+        "/images/uploads/h9dddd0e32a8c4a53b94280d8475f285dc.jpg",
+        "/images/uploads/h9bd4ee56ef7f4f27954db825cc1f8299z.jpg",
+        "/images/uploads/h14e494a8da4540bbb7b5e2593b477663v.jpg"
+      ],
+      "id": "DY-HD-003",
+      "colour_en": "#1B Natural Black",
+      "name_en": "7X7HD Natural Black #1B Swiss Lace HD Closure",
+      "category": "Closures & Frontals"
+    },
+    {
+      "name_zh": "",
+      "summary_en": "4X4HD 2X6HD 5X5HD 13X4HD 13X6HD 360HD",
+      "length": "10-22 inch are available",
+      "material": "yunnan",
+      "texture_en": "Straight",
+      "weight_en": "150% density",
+      "grade_en": "12A-Cutical Aligned ",
+      "construction_en": "4X4HD 2X6HD 5X5HD 13X4HD 13X6HD 360HD  ",
+      "images": [
+        "/images/uploads/hb0563647822d486dad4f3e8b4ea0fdden.jpg",
+        "/images/uploads/hfb046369170b4da9813923eeaa2e9011y.jpg",
+        "/images/uploads/hdfdadcbd39e14594988bd5c9c684b8c0y.jpg"
+      ],
+      "id": "DY-HD-004",
+      "colour_en": "613#",
+      "name_en": "4X4 5X5HD Swiss Lace Closure #613 Blonde",
+      "category": "Closures & Frontals"
     }
   ]
 }
